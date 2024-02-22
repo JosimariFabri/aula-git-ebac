@@ -4,7 +4,7 @@ Dados do aluno
 -Profissão: Ilustradora
 -Cidade: Maringá
 -O que faz nas horas vaga: leio
--Feedback sobre o curso Qualidade de Software: òtimo.
+-Feedback sobre o curso Qualidade de Software: ótimo.
 -Feedback sobre a plataforma de estudo da EBAC: Fácil navegação.  
 
 Obrigado!!!
